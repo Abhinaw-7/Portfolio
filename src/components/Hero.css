@@ -124,24 +124,20 @@
     text-align: center;
 }
 
-.profile-img-placeholder {
+.profile-img-container {
     width: 150px;
     height: 150px;
     margin: 0 auto 20px;
     border-radius: 50%;
-    background: linear-gradient(135deg, #1c2331, #2b3a54);
     border: 2px solid var(--primary-accent);
-    display: flex;
-    align-items: center;
-    justify-content: center;
     box-shadow: 0 0 20px rgba(0, 240, 255, 0.3);
+    overflow: hidden;
 }
 
-.avatar-letter {
-    font-size: 4rem;
-    font-weight: 800;
-    color: transparent;
-    -webkit-text-stroke: 1.5px var(--text-main);
+.profile-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .profile-info h3 {

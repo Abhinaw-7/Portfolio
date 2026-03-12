@@ -47,9 +47,8 @@ const Hero = () => {
 
                 <div className="hero-visual animate-float desktop-only">
                     <div className="glass-panel profile-card">
-                        <div className="profile-img-placeholder">
-                            {/* Replace with actual image later */}
-                            <div className="avatar-letter">A</div>
+                        <div className="profile-img-container">
+                            <img src="/profile.png" alt="Abhinaw" className="profile-img" />
                         </div>
                         <div className="profile-info">
                             <h3>Abhinaw</h3>
