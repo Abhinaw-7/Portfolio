@@ -91,7 +91,7 @@ To make this portfolio your own:
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhinaw-kumar-3588a5269/))
 - [GitHub](https://github.com/Abhinaw-7)
 
 ---
